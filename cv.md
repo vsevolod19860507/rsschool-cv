@@ -37,12 +37,12 @@ greet("Seva"); // Hello, Seva!
 
 ## Projects
 
-- **Резюме МД** – Резюме в формате Markdown
-  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/cv)
+- **Markdown Resume** – Resume formatted using Markdown  
+  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/cv)  
   💻 [Code](https://github.com/vsevolod19860507/rsschool-cv)
 
-- **Резюме HTML** – Резюме с вёрсткой на HTML и стилями
-  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/)
+- **HTML Resume** – Resume built with HTML and CSS styling  
+  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/)  
   💻 [Code](https://github.com/vsevolod19860507/rsschool-cv)
 
 ---
