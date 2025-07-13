@@ -31,7 +31,13 @@ Motivated and detail-oriented Frontend Developer focused on building clean, resp
 
 ## Projects
 
-> 📝 TODO: add later
+- **Резюме МД** – Резюме в формате Markdown  
+  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/cv)  
+  💻 [Code](https://github.com/vsevolod19860507/rsschool-cv)
+
+- **Резюме HTML** – Резюме с вёрсткой на HTML и стилями  
+  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/)  
+  💻 [Code](https://github.com/vsevolod19860507/rsschool-cv)
 
 ---
 
