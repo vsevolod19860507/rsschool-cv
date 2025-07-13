@@ -30,6 +30,9 @@ function greet(name) {
   console.log(`Hello, ${name}!`);
 }
 
+greet("Seva"); // Hello, Seva!
+```
+
 ---
 
 ## Projects
@@ -55,4 +58,7 @@ _2018–2022_
 **English Level:** Upper-Intermediate (B2)
 
 - Comfortable reading docs, writing technical content, and working in English-speaking teams
+
+```
+
 ```
