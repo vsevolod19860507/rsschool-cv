@@ -25,30 +25,34 @@ Motivated and detail-oriented Frontend Developer focused on building clean, resp
 
 ## Code Example
 
-> 📝 TODO: add later
+```javascript
+function greet(name) {
+  console.log(`Hello, ${name}!`);
+}
 
 ---
 
 ## Projects
 
-- **Резюме МД** – Резюме в формате Markdown  
-  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/cv)  
+- **Резюме МД** – Резюме в формате Markdown
+  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/cv)
   💻 [Code](https://github.com/vsevolod19860507/rsschool-cv)
 
-- **Резюме HTML** – Резюме с вёрсткой на HTML и стилями  
-  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/)  
+- **Резюме HTML** – Резюме с вёрсткой на HTML и стилями
+  🔗 [View](https://vsevolod19860507.github.io/rsschool-cv/)
   💻 [Code](https://github.com/vsevolod19860507/rsschool-cv)
 
 ---
 
 ## Education & English
 
-**Frontend Developer Path** – freeCodeCamp / The Odin Project / Scrimba  
+**Frontend Developer Path** – freeCodeCamp / The Odin Project / Scrimba
 _2023–2024_ – Covered JS, React, Git, and real projects
 
-**Bachelor of Arts in Communication** – University of XYZ  
+**Bachelor of Arts in Communication** – University of XYZ
 _2018–2022_
 
 **English Level:** Upper-Intermediate (B2)
 
 - Comfortable reading docs, writing technical content, and working in English-speaking teams
+```
